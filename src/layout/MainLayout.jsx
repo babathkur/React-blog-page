@@ -5,7 +5,13 @@ const MainLayout = () => {
     return (
         <>
             <nav>
-                <h3>virender</h3>
+                <h3 style={{
+                    color: "white",
+                    fontSize: "0px",
+                    fontWeight: "bold",
+                    textAlign: "center",
+                    margin: "20px 0",
+                }}>Blog</h3>
                 <div>
                     <Link to="/">Home</Link>
                     <Link to="/user/1">User 1</Link>
