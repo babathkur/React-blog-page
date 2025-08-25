@@ -4,8 +4,8 @@ const AuthorPage = () => {
   const { userId } = useParams();
   return (
     <div>
-      <h2>Author Page</h2>
-      <p>Auther ID {userId}</p>
+      <h2>User Page</h2>
+      <p>User ID {userId}</p>
       <p>Blog List</p>
     </div>
   );
