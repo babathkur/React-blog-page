@@ -6,8 +6,8 @@ const MainLayout = () => {
         <>
             <nav>
                 <h3 style={{
-                    color: "white",
-                    fontSize: "0px",
+                    color: "white !imporant",
+                    fontSize: "20px",
                     fontWeight: "bold",
                     textAlign: "center",
                     margin: "20px 0",
